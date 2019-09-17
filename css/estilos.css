@@ -1,9 +1,19 @@
 body{
-    background: url(../img/fondo.jpg) no-repeat center center fixed;
+    background: url(../img/fondo2.jpg) no-repeat center center fixed;
     background-size: 100%;
+   
  
     }
 
     #callout{
   opacity: 0.3;
     }
+
+  .color-bg{
+    background-color:#fdbcb4  !important;
+    opacity: 0.9;
+  }
+
+  .color{
+     background-color: #fdbcb4 ;
+  }
